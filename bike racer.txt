@@ -1,0 +1,33 @@
+STORY- There was a man who has a intrest in racing but due to lockdown he cant go for racing. So We created a bike Racing Game
+
+
+Main Character- 2 Bikes 
+
+
+
+
+NPC-FUEL,DIAMONDS
+
+
+
+
+Goal-TO win the Race  and collecting  keys Avoid Collision Cross the finish line
+
+
+
+Obstacles-   A BOX,A BIG STONE
+
+
+
+Rules-MOve by UP ARROW KEY,RIGHT ARROW,LEFT ARROW ,DOWN ARROW
+
+
+
+Chance/Skill-  BEIng FASt but also with Concentration 
+
+
+Balance- Obstacles  Balance The GAme
+
+
+
+Feedback- SCore,Rank,Fuel bAr

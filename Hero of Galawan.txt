@@ -1,0 +1,33 @@
+  STORY- You are brought to Indo-China Border as an army officer. Your unit have to go for patrolling But u were sick so Your Unit denied ur patrolling and told u to rest. But chinese army got to know that u are alone . Now u have to Save ur post.
+
+
+Main Character- 1 ARMY Officer and Chinese Soldiers
+
+
+
+
+NPC-Tent,A Stone
+
+
+
+
+Goal-You have to protect ur post from 75 soldiers by killing all of them
+
+
+
+
+Obstacles-Chinese Soldiers
+
+
+Rules-Space for shooting and up and down arrow key for rotating guns
+
+
+
+Chance/Skill-Good Aiming
+
+
+Balance- More soldiers will be there after some kills
+
+
+
+Feedback- Kills
